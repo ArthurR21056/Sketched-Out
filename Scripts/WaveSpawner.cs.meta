@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 57ae9c9f924a67f498943d6c8d163de9
+timeCreated: 1478740769
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemy1: {fileID: 4000011925541892, guid: 4bb7ca424304a014dbf859f3607daace, type: 2}
+  - enemy2: {fileID: 4000012570071954, guid: 536df9989cb2fba4fbda8b530d31c84a, type: 2}
+  - enemy3: {instanceID: 0}
+  - enemy4: {instanceID: 0}
+  - spawnPoint1: {instanceID: 0}
+  - spawnPoint2: {instanceID: 0}
+  - spawnPoint3: {instanceID: 0}
+  - spawnPoint4: {instanceID: 0}
+  - spawnPoint5: {instanceID: 0}
+  - spawnPoint6: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
